@@ -16,21 +16,21 @@
 
 **Technologies**
 <p>
-<img title="GoLang" height="36" src="https://img.icons8.com/color/48/000000/golang.png" alt="golang"/>
-<img title="Java" height="36" src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png" alt="java"/>
-<img title="JavaScript" height="36" src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"/>
-<img title="Python" height="36" src="https://img.icons8.com/color/50/000000/python.png" alt="python"/>
+<img title="GoLang" height="42" src="https://img.icons8.com/color/48/000000/golang.png" alt="golang"/>
+<img title="Java" height="44" src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png" alt="java"/>
+<img title="JavaScript" height="42" src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"/>
+<img title="Python" height="42" src="https://img.icons8.com/color/50/000000/python.png" alt="python"/>
 </p>
 
 **Data**
 <p>
-<img title="PostgreSQL" height="32" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-8-1175119.png" alt="postgresql"/>
-<img title="Oracle DB" height="40" src="https://img.icons8.com/plasticine/50/000000/oracle-pl-sql--v3.png" alt="oracledb"/>
+<img title="PostgreSQL" height="38" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-8-1175119.png" alt="postgresql"/>
+<img title="Oracle DB" height="46" src="https://img.icons8.com/plasticine/50/000000/oracle-pl-sql--v3.png" alt="oracledb"/>
 </p>
 
 **Other Tools**
 <p>
-<img title="Postman" height="32" src="https://sdtimes.com/wp-content/uploads/2018/08/logo-glyph.png" alt="postman"/>
-<img title="Spring" height="37" src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="spring"/>
-<img title="Genexus" height="32" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_d66784c9b1c6280ddf07e1d084a10b72/genexus.png" alt="genexus"/>
+<img title="Postman" height="38" src="https://sdtimes.com/wp-content/uploads/2018/08/logo-glyph.png" alt="postman"/>
+<img title="Spring" height="43" src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="spring"/>
+<img title="Genexus" height="38" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_d66784c9b1c6280ddf07e1d084a10b72/genexus.png" alt="genexus"/>
 </p>
