@@ -11,6 +11,8 @@
 • 👻 Always learning.<br/>
 • 🎓 Software engineering student at UDESC.
 <br/>
+<br/>
+<br/>
 <div>
   <a href="https://github.com/guilhermelange">
   <img height="180em" style="width: 49%; float: left; margin: none;" src="https://github-readme-stats.vercel.app/api?username=guilhermelange&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
