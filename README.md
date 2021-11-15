@@ -23,11 +23,11 @@
 
 **Technologies**
 <p>
+<img title="JavaScript" height="42" src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"/>
+<img title="React" height="42" src="https://img.icons8.com/color/50/000000/react-native.png" alt="reactjs"/>
 <img title="GoLang" height="42" src="https://img.icons8.com/color/48/000000/golang.png" alt="golang"/>
 <img title="Java" height="44" src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png" alt="java"/>
-<img title="JavaScript" height="42" src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"/>
 <img title="Python" height="42" src="https://img.icons8.com/color/50/000000/python.png" alt="python"/>
-<img title="React" height="42" src="https://img.icons8.com/color/50/000000/react-native.png" alt="reactjs"/>
 </p>
 
 **Data**
