@@ -34,10 +34,3 @@
 <img title="PostgreSQL" height="38" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-8-1175119.png" alt="postgresql"/>
 <img title="Oracle DB" height="46" src="https://img.icons8.com/plasticine/50/000000/oracle-pl-sql--v3.png" alt="oracledb"/>
 </p>
-
-**Other Tools**
-<p>
-<img title="Postman" height="38" src="https://sdtimes.com/wp-content/uploads/2018/08/logo-glyph.png" alt="postman"/>
-<img title="Spring" height="43" src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="spring"/>
-<img title="Genexus" height="38" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_d66784c9b1c6280ddf07e1d084a10b72/genexus.png" alt="genexus"/>
-</p>
