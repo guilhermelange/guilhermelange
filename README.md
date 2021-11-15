@@ -5,7 +5,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/guilhermelange)](https://t.me/guilhermelange)
 
 <p>
-  Hi! I'm a Back-End Developer 💻
+  Hi! I'm a Web Developer 💻
 </p>
 • 🏠 From Apiúna-SC.<br/>
 • 👻 Always learning.<br/>
