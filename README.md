@@ -9,7 +9,7 @@
 </p>
 • 🏠 From Apiúna-SC.<br/>
 • 👻 Always learning.<br/>
-• 🎓 Software engineering student at UDESC.
+• 🎓 Software engineering - UDESC.
 <br/>
 <br/>
 <br/>
